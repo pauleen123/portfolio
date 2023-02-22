@@ -17,7 +17,7 @@
 
 <br/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jrosseel" alt="jrosseel" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jrosseel" alt="jrosseel" /></a> </p> -->
 
 <!-- SOCIALS. TODO: SWAP OUT YOUR URL AND NAME. -->
 <p align="left" style="float: left;"> 
@@ -47,7 +47,7 @@
 
 ### Get to know me
 
-<!-- 💬 I'm an expert on **software architectures for Google Cloud, AWS and/or Azure.** -->
+💬 I'm junior FullStack Developer  **React JS, Angular JS, Ruby on Rails**
 
 📝 I regularly write articles on [https://medium.com/@paugitonga6/](https://medium.com/@paugitonga6)
 
@@ -64,13 +64,13 @@
 <!-- 🔭 I’m currently working on [Kujali](https://github.com/italanta/kujali) -->
 
 <!-- TODO: Update at the end of every day with your  -->
-🤝 About to score [this bounty](https://github.com/italanta/kujali/issues/17)!
+🤝 About to score [this bounty](https://github.com/italanta/kujali/issues/31)!
 
 👨‍💻 Review my projects at [https://github.com/pauleen123](https://github.com/pauleen123)
 
 ### Interested ?
 
-📫 Reach me on **jente@elewa.ke**
+📫 Reach me on **paugitonga6@gmail.com**
 
 <br />
 

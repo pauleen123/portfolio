@@ -130,11 +130,7 @@
 
 | Date     	| Issue 	| Status 	| Link 	|
 |----------	|-------	|--------	|------	|
-| 26/09/22 	| 🚚🏠⚡ Conversations state and model layer | Merged | [#79](https://github.com/italanta/kujali/issues/79) |
-| 01/08/22 	| 🚀 Add serverless backend capabilities | Merged | [#19](https://github.com/italanta/elewa/pull/19) |
-| 12/07/22 	| 🚀 Setup the application | Merged | [#2](https://github.com/italanta/elewa/pull/2) |
-| 11/07/22 	| 🏠 Data model for story and story blocks | Merged | [#1](https://github.com/italanta/elewa/pull/1) |
-
+| 27/02/23 	| 🚚🏠⚡ Social Impact Page | Merged | [#34](https://github.com/italanta/elewa-group/pull/269) |
 
 ### The technologies I used
 
